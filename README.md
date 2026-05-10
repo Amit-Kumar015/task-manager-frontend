@@ -6,6 +6,12 @@ Backend: https://team-taskbackend-production.up.railway.app
 
 ---
 
+## 📂 Repositories
+Frontend Repo: https://github.com/Amit-Kumar015/task-manager-frontend  
+Backend Repo: https://github.com/Amit-Kumar015/task-manager-backend  
+
+---
+
 ## 📌 About Project
 This is a full-stack Team Task Manager application where users can:
 - Sign up and log in
